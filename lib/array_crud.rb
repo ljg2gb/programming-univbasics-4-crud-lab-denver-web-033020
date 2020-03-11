@@ -1,9 +1,9 @@
 def create_an_empty_array
   empty_array = []
 end
-  ["New York", "Denver", "London", "D.C"]
+
 def create_an_array
-  
+  ["New York", "Denver", "London", "D.C"]
 end
 
 def add_element_to_end_of_array(array, element)
